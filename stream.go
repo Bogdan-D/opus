@@ -11,7 +11,6 @@ import (
 )
 
 /*
-#cgo pkg-config: opusfile
 #include <opusfile.h>
 #include <string.h>
 
