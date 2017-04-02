@@ -5,7 +5,7 @@
 package opus
 
 /*
-#include <opus.h>
+#include "include/opus.h"
 
 // Access the preprocessor from CGO
 const int CONST_APPLICATION_VOIP = OPUS_APPLICATION_VOIP;

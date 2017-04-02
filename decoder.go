@@ -10,7 +10,7 @@ import (
 )
 
 /*
-#include <opus.h>
+#include "include/opus.h"
 */
 import "C"
 

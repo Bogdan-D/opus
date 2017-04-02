@@ -9,7 +9,7 @@ import (
 )
 
 /*
-#include <opus.h>
+#include "include/opus.h"
 
 // Access the preprocessor from CGO
 
