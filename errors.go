@@ -9,8 +9,9 @@ import (
 )
 
 /*
-#include <opus.h>
-#include <opusfile.h>
+#include "include/opus.h"
+#include "include/opusfile.h"
+
 */
 import "C"
 
